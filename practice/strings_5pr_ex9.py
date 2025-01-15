@@ -1,6 +1,4 @@
-import string
-
-stringFromUser = input('Введите строку \n')
+stringFromUser = input('Введите строку^ \n')
 wordFromUser = input("Введите слово для поиска: ")
 count = stringFromUser.count(wordFromUser)
 
